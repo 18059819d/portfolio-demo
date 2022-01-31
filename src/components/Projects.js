@@ -9,36 +9,33 @@ const Projects = () => {
                 <Col sm={12} md={6} lg={4}>
                     <Card style={{ width: '100%' }}>
                         <Card.Body>
-                            <Card.Title>Card Title</Card.Title>
+                            <Card.Title>Fake Uber Eat API</Card.Title>
                             <Card.Text>
-                            Some quick example text to build on the card title and make up the bulk of
-                            the card's content.
+                            Develop containerized event-based microservices for supporting a RESTful API which is similar to the service provided by the Uber Eat API.
                             </Card.Text>
-                            <Button variant="primary">Go somewhere</Button>
+                            <Button variant="primary">More Details</Button>
                         </Card.Body>
                     </Card>
                 </Col>
                 <Col sm={12} md={6} lg={4}>
                     <Card style={{ width: '100%', margin: "20px 0" }}>
                         <Card.Body>
-                            <Card.Title>Card Title</Card.Title>
+                            <Card.Title>Mobile Shopping App</Card.Title>
                             <Card.Text>
-                            Some quick example text to build on the card title and make up the bulk of
-                            the card's content.
+                            Design and implement a mobile computingapplication using the Android platform.
                             </Card.Text>
-                            <Button variant="primary">Go somewhere</Button>
+                            <Button variant="primary">More Details</Button>
                         </Card.Body>
                     </Card>
                 </Col>
                 <Col sm={12} md={6} lg={4}>
                     <Card style={{ width: '100%' }}>
                         <Card.Body>
-                            <Card.Title>Card Title</Card.Title>
+                            <Card.Title>The Jungle Game</Card.Title>
                             <Card.Text>
-                            Some quick example text to build on the card title and make up the bulk of
-                            the card's content.
+                            Work in groups on the designand implementation of a Jungle game to be played in the command line console.
                             </Card.Text>
-                            <Button variant="primary">Go somewhere</Button>
+                            <Button variant="primary">More Details</Button>
                         </Card.Body>
                     </Card>
                 </Col>
