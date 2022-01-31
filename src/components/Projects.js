@@ -22,7 +22,7 @@ const Projects = () => {
                         <Card.Body>
                             <Card.Title>Mobile Shopping App</Card.Title>
                             <Card.Text>
-                            Design and implement a mobile computingapplication using the Android platform.
+                            Design and implement a mobile computing application using the Android platform.
                             </Card.Text>
                             <Button variant="primary">More Details</Button>
                         </Card.Body>
